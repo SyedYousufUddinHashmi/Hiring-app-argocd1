@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: hashmi6514/hiring-app:2
+        image: hashmi6514/hiring-app:12
         ports:
         - containerPort: 8080
